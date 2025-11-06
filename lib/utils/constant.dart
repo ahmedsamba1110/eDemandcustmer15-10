@@ -1,6 +1,6 @@
 import 'package:e_demand/app/generalImports.dart';
 
-const String appName = "eDemandEnjaz";
+const String appName = "eDemandEnjazz";
 
 // domainURL should look like:- your_web_domain or your_panel_domain
 const String domain = 'https://admin.bareeq.sd'; //demo
